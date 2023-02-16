@@ -13,7 +13,7 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=septiyandn&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
   Hello I love building amazing software which make an impact
@@ -59,3 +59,5 @@ I am a Jr. Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=septiyandn&theme=tokyonight&hide_border=true&locale=id)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=septiyandn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
